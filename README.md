@@ -48,4 +48,4 @@ Our application utilizes the OpenWeatherMap API to fetch weather data. If you in
 
 ## Acknowledgements
 1. Thank you for R.W. for help with this project.
-2. PNGs from ![Vecteezy] (https://www.vecteezy.com/free-png/weather-icons)
+2. PNGs from Vecteezy: (https://www.vecteezy.com/free-png/weather-icons)
