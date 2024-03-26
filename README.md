@@ -4,6 +4,8 @@
 
 Welcome to our Weather Application! This application allows you to check the weather conditions in any city around the world. By simply typing in the name of the city, you can retrieve current weather data including temperature, humidity, wind speed, and more.
 
+![Weather Application Inferface](./images/cloud.png)
+
 ## Accessing the Application
 
 You can access the Weather Application in two ways:
