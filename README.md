@@ -4,7 +4,7 @@
 
 Welcome to our Weather Application! This application allows you to check the weather conditions in any city around the world. By simply typing in the name of the city, you can retrieve current weather data including temperature, humidity, wind speed, and more.
 
-![Weather Application Inferface](./images/cloud.png)
+![Weather Application Inferface](./images/App_Cover.png)
 
 ## Accessing the Application
 
@@ -46,4 +46,6 @@ Our Weather Application is built using the following technologies:
 
 Our application utilizes the OpenWeatherMap API to fetch weather data. If you intend to use or modify this application, you'll need to sign up for an API key from OpenWeatherMap. Once you have your API key, you can replace the placeholder API key in the JavaScript code with your own.
 
-
+## Acknowledgements
+1. Thank you for R.W. for help with this project.
+2. PNGs from ![Vecteezy] (https://www.vecteezy.com/free-png/weather-icons)
