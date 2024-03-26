@@ -8,7 +8,7 @@ Welcome to our Weather Application! This application allows you to check the wea
 
 You can access the Weather Application in two ways:
 
-1. **Deployed Website:** You can access the application by clicking the deployed website link. [Insert deployed website link here]
+1. **Deployed Website:** You can access the application by clicking the deployed website link. [https://embleem.github.io/weather-app/]
 
 2. **Downloading the Code:** If you prefer to run the application locally or want to explore the code, you can clone or download the repository to your local machine. Follow the instructions in the Getting Started section below.
 
@@ -44,13 +44,4 @@ Our Weather Application is built using the following technologies:
 
 Our application utilizes the OpenWeatherMap API to fetch weather data. If you intend to use or modify this application, you'll need to sign up for an API key from OpenWeatherMap. Once you have your API key, you can replace the placeholder API key in the JavaScript code with your own.
 
-## Contribution
-
-If you'd like to contribute to our Weather Application, we welcome your contributions! Feel free to fork the repository, make your changes, and submit a pull request. We appreciate any improvements or bug fixes you can offer.
-
-## Feedback
-
-We value your feedback! If you have any suggestions, feature requests, or encounter any issues while using our Weather Application, please don't hesitate to reach out to us. You can contact us via [email/website/github/etc.].
-
-Thank you for using our Weather Application!
 
